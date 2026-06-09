@@ -1,6 +1,6 @@
 /* === Global Styles === */
 :root {
-  --card-bg-color: #292929; /* Darker, theme-consistent color */
+  --card-bg-color: #232222; /* Darker, theme-consistent color */
   --shadow-color: rgba(0, 0, 0, 0.2); /* Shadow color for consistent styling */
 }
 
@@ -151,10 +151,6 @@ body {
 
 }
 
-  .hero-content h1{
-    color: #ffcc00;
-  }
-
   .hero-content p {
     color: #104307; /* Green shade for a vibrant and attractive look */
     font-size: 1.5rem; /* Slightly larger font for emphasis */
@@ -179,7 +175,7 @@ body {
 }
 .hero h1 {
   font-size: 3rem;
-  color: #ffcc00; /* Bright golden yellow for an attractive and vibrant look */
+  color: #ff6f00; /* Bright golden yellow for an attractive and vibrant look */
 }
 
 .cta:hover {
